@@ -1,5 +1,5 @@
 # Darren Paine
-Programming and data have always been passions that have helped me succeed in all the jobs I have had. My first computer was a Sinclair ZX81 with 1 KB memory.
+Programming and data have always been passions that have helped me succeed in all the jobs I have had.
 - I’m interested in data, algorithms and finding the (possible) answers. I'm also curious about qubits.
 - I also like non-computing languages and speak a bit a Russian and some Vietnamese.
 
