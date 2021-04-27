@@ -1,7 +1,8 @@
 # Darren Paine
 Programming and data have always been passions that have helped me succeed in all the jobs I have had.
-- I’m interested in data, algorithms and finding the (possible) answers. I'm also curious about qubits.
-- I also like non-computing languages and speak a bit a Russian and some Vietnamese.
+- I’m interested in the details of data - from cleaning it to storing it to using algorithms to find answers.
+- I'm also curious about qubits.
+- I also speak non-computing languages - a bit of Russian and some Vietnamese.
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
