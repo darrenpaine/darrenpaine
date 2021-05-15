@@ -1,7 +1,6 @@
 # Darren Paine
 Programming and data have always been passions that have helped me succeed in all the jobs I have had.
-- I’m interested in the details of data - from cleaning it to storing it to using algorithms to find answers.
-- I'm also curious about qubits.
+- I am interested in the details of data - from cleaning it to storing it to using algorithms to find answers.
 - I also speak non-computing languages - a bit of Russian and some Vietnamese.
 
 ## Technologies & Tools
