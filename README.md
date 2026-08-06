@@ -9,6 +9,7 @@ Programming and data have always been passions that have helped me succeed in al
 ![](https://img.shields.io/badge/Modules-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=ab5c8a)
 ![](https://img.shields.io/badge/Modules-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=ab5c8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=abc58a)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=abc58a)
 ![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=abc58a)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=abc58a)
