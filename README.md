@@ -4,10 +4,11 @@ Programming and data have always been passions that have helped me succeed in al
 - I also speak non-computing languages - a bit of Russian and some Vietnamese.
 
 ## Technologies & Tools
-![](https://img.shields.io/badge/Agile-CSPO-informational?style=flat&logo=agile&logoColor=white&color=abc58a)
+![](https://img.shields.io/badge/Agile-CSPO®-informational?style=flat&logo=agile&logoColor=white&color=abc58a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ab5c8a)
 ![](https://img.shields.io/badge/Modules-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=ab5c8a)
 ![](https://img.shields.io/badge/Modules-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=ab5c8a)
+![](https://img.shields.io/badge/Code-Go-blue?logo=go&logoColor=whitea)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=abc58a)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=bitbucket&logoColor=white&color=abc58a)
