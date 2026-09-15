@@ -1,7 +1,5 @@
 # Darren Paine
-Programming and data have always been passions that have helped me succeed in all the jobs I have had.
-- I am interested in the details of data - from cleaning it to storing it to using algorithms to find answers.
-- I also speak non-computing languages - a bit of Russian and some Vietnamese.
+Lead Software Engineer with an MSc in Computing (Distinction) and a background building robust, reliable platforms and developer infrastructure for complex systems. Combines hands-on experience in Python, C++ and Go with direct line management, reliability engineering, and continuous integration pipelines. Proven track record building custom developer tooling, and managing localised Linux and Python repositories. Extensive hands-on software development experience within regulated industries. 
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/Agile-CSPO®-informational?style=flat&logo=agile&logoColor=white&color=abc58a)
