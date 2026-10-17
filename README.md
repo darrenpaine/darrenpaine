@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 About Me
-* **Core Expertise:** Python, C++, Go, Distributed & Event-Driven Systems (MQTT), Developer Tooling. Plus TypeScript/React.
-* **Background:** MSc in Computing (Distinction); extensive hands-on software development within regulated, safety-critical industries.
-* **Leadership & Delivery:** Technical line management, reliability engineering, CI/CD automation, and Agile/CSPO® product alignment.
+* **Core Expertise:** Python, C++, Go, Distributed & Event-Driven Systems (MQTT), Developer Tooling. TypeScript/React.
+* **Background:** MSc in Computing (Distinction); extensive hands-on software development within regulated industries.
+* **Leadership & Delivery:** Technical line management, reliability engineering, CI/CD automation, and Agile/CSPO®.
 
 ### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Agile-CSPO®-informational?style=flat&logo=agile&logoColor=white&color=abc58a)
