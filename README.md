@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-* **Core Expertise:** Python, C++, Go, Distributed & Event-Driven Systems (MQTT), Developer Tooling.
+* **Core Expertise:** Python, C++, Go, Distributed & Event-Driven Systems (MQTT), Developer Tooling. Plus TypeScript/React.
 * **Background:** MSc in Computing (Distinction); extensive hands-on software development within regulated, safety-critical industries.
 * **Leadership & Delivery:** Technical line management, reliability engineering, CI/CD automation, and Agile/CSPO® product alignment.
 
