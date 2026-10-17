@@ -1,7 +1,17 @@
-# Darren Paine
-Lead Software Engineer with an MSc in Computing (Distinction) and a background building robust, reliable platforms and developer infrastructure for complex systems. Combines hands-on experience in Python, C++ and Go with direct line management, reliability engineering, and continuous integration pipelines. Proven track record building custom developer tooling, and managing localised Linux and Python repositories. Extensive hands-on software development experience within regulated industries. 
+# Hi, I'm Darren Paine 👋
 
-## Technologies & Tools
+### **Lead Software Engineer & Platform Developer**
+
+> *Building robust, reliable platforms, developer infrastructure, and data-intensive systems for complex and regulated environments.*
+
+---
+
+### 🚀 About Me
+* **Core Expertise:** Python, C++, Go, Distributed & Event-Driven Systems (MQTT), Developer Tooling.
+* **Background:** MSc in Computing (Distinction); extensive hands-on software development within regulated, safety-critical industries.
+* **Leadership & Delivery:** Technical line management, reliability engineering, CI/CD automation, and Agile/CSPO® product alignment.
+
+### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Agile-CSPO®-informational?style=flat&logo=agile&logoColor=white&color=abc58a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ab5c8a)
 ![](https://img.shields.io/badge/Modules-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=ab5c8a)
